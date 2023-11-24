@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    font-size: 200x;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 20px ;
+    color: brown;
+
+}
+.box{
+    
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: center;
+     
+     margin-top: 30px;
+}
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    
+
+}
+input{
+width: 50px;
+margin-left: 10px;
+}
+
+button{
+    width: 60px;
+    background-color: aquamarine;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+#data{
+     
+    
+    
+    margin-top: 50px;
+    width: 70%;
+    text-align: left;
+    
+
+}
